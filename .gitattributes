@@ -1,0 +1,4 @@
+*.js linguist-language=typescript
+*.less linguist-language=typescript
+*.html linguist-language=typescript
+*.json linguist-language=typescript
