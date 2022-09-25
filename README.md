@@ -1,4 +1,4 @@
-# Hzfq Admin Ng-Zorro-Antd
+# Hzfq Admin Zorro
 
 Admin based on Ng-Zorro-Antd
 
